@@ -1,0 +1,20 @@
+{
+  "name": "uso-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uso-archive/types.git"
+  },
+  "author": "33KK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uso-archive/types/issues"
+  },
+  "homepage": "https://github.com/uso-archive/types#readme",
+  "devDependencies": {
+    "@types/node": "^15.6.2",
+    "typescript": "^4.3.2"
+  }
+}
