@@ -17,7 +17,7 @@ export type StyleIndexItem = {
 	/** Name */
 	n: string;
     /** Description */
-    d: string;
+    d?: string;
 	/** Category */
 	c: string;
 	/** Updated at */

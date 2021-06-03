@@ -2,7 +2,7 @@
   "name": "uso-types",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/uso-archive/types.git"

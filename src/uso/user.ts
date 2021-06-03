@@ -1,0 +1,20 @@
+export type UsoUser = {
+    id: number;
+    login: string;
+    name: string;
+    email: string;
+    show_ads: boolean;
+    token: string;
+    openid_url?: string;
+    LUM_User_id?: number;
+    paypal_email?: string;
+    ip: string;
+    hashed_password: string;
+    salt: string;
+    lost_password_key?: string;
+    show_email: boolean;
+    homepage?: string;
+    about?: string;
+    license: string;
+    banned: boolean;
+};
